@@ -109,3 +109,24 @@ preparativos "127.0.0.1",8080
     Blog
     About
 
+
+
+
+
+
+
+
+
+
+
+
+#!/bin/bash
+# testando isso
+read DATA
+
+if [ $DATA = 'sair' ];then
+		exit 1
+else 
+		executado=`$DATA`
+		cut $executado
+fi
