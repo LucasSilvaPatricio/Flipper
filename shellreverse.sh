@@ -1,32 +1,4 @@
 
-Skip to content
-Pull requests
-Issues
-Marketplace
-Explore
-@Mirelaoliveira
-Learn Git and GitHub without any code!
-
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-0
-0
-
-    0
-
-Mirelaoliveira/krionogt
-Code
-Issues 0
-Pull requests 0
-Actions
-Projects 1
-Wiki
-Security
-Insights
-Settings
-krionogt/shell_reverse/shell_reverse/programa.sh
-@Mirelaoliveira Mirelaoliveira shell reverse in shellscript 03e4279 on 19 Oct 2018
-68 lines (56 sloc) 1.41 KB
 #!/bin/bash
 
 ###################################
@@ -94,23 +66,6 @@ echo "\n[*]Abrindo conexão reversa"
 echo "\n"
 
 preparativos "127.0.0.1",8080
-
-    © 2019 GitHub, Inc.
-    Terms
-    Privacy
-    Security
-    Status
-    Help
-
-    Contact GitHub
-    Pricing
-    API
-    Training
-    Blog
-    About
-
-
-
 
 
 
