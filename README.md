@@ -9,8 +9,6 @@
                                |_|    |_|      
 --------------------------------------------------------------------------------------------
 
-# 1° espero que faça bom proveito 
-# 2° codigo é livre para estudos mas não me responsabilizo por seus atos ou cagadas
-# 3° contribua também    
-
-# ------------------------------------------------------------------------------------------
+## 1° espero que faça bom proveito 
+## 2° codigo é livre para estudos mas não me responsabilizo por seus atos ou cagadas
+## 3° contribua também    
